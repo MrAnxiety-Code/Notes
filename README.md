@@ -5,3 +5,4 @@ Literally discovered the wiki tab after making this repo. But hey, this is all p
 
 ## TODO
 - [ ] Explore the wiki tab
+- [ ] Rename ``` JS Project Ideas ``` to ``` JS Project Ideas.md ```
