@@ -1,5 +1,7 @@
 # Syntax
 
+[Styling Text in Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
+
 # This is a h1 Header
 ## This is a h2 Header
 ### This is a h3 Header
@@ -36,3 +38,7 @@ If you press Enter at the and of a line formatted as a task, it will automatical
 ```
 # Add a weblink
 Follow me on Bluesky: [@mranxiety.bsky.social](https://bsky.app/profile/mranxiety.bsky.social)
+
+**Bold Text**
+
+*Italic Text*
