@@ -39,6 +39,6 @@ If you press Enter at the and of a line formatted as a task, it will automatical
 # Add a weblink
 Follow me on Bluesky: [@mranxiety.bsky.social](https://bsky.app/profile/mranxiety.bsky.social)
 
+# Basic styling
 **Bold Text**
-
 *Italic Text*
