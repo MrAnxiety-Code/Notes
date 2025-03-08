@@ -1,16 +1,15 @@
 # JS Project Ideas
 
-## From Gemini
+## From [Gemini](https://gemini.google.com/app)
 
 ### Prompt
-I'm currently working through the JavaScript intermediate course on Sololearn.
-
-What are some project ideas that I can work on to practice?
+*I'm currently working through the JavaScript intermediate course on Sololearn.
+What are some project ideas that I can work on to practice?*
 
 ### Answer
 That's great you're working through the intermediate JavaScript course! Building projects is the best way to solidify your learning. Here are some project ideas, categorized by the concepts they reinforce, that are suitable for an intermediate level:
 
-DOM Manipulation & Event Handling:
+#### DOM Manipulation & Event Handling:
  * Interactive To-Do List:
    * Allow users to add, delete, and mark tasks as complete.
    * Implement local storage to persist the list.
@@ -30,7 +29,7 @@ DOM Manipulation & Event Handling:
    * Generate random color palettes and display them as swatches.
    * Allow users to copy color codes to their clipboard.
 
-Asynchronous JavaScript & APIs:
+#### Asynchronous JavaScript & APIs:
  * Weather App:
    * Use a weather API (like OpenWeatherMap) to fetch and display weather data based on user input.
    * Handle API requests and display data dynamically.
@@ -44,7 +43,7 @@ Asynchronous JavaScript & APIs:
    * Use a currency exchange rate API to convert between different currencies.
    * Allow the user to select the currencies and enter the amount.
 
-Object-Oriented Programming (OOP) & Data Structures:
+#### Object-Oriented Programming (OOP) & Data Structures:
  * Simple Game (e.g., Tic-Tac-Toe, Rock-Paper-Scissors):
    * Implement the game logic using objects and functions.
    * Focus on creating a clean and organized code structure.
@@ -55,7 +54,7 @@ Object-Oriented Programming (OOP) & Data Structures:
  * Basic Blog System (Console or simple UI):
    * Create objects for blog posts, and allow users to add posts, edit posts, and delete posts.
 
-Tips for Success:
+#### Tips for Success:
  * Start Small: Break down large projects into smaller, manageable tasks.
  * Plan Your Project: Before coding, outline the features and functionality you want to implement.
  * Use Developer Tools: Learn to use your browser's developer console for debugging and inspecting elements.
