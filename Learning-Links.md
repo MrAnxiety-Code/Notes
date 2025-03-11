@@ -7,3 +7,6 @@
 - [GitHub Skills](https://github.com/skills)
 - [GitHub Pages Course](https://github.com/skills/github-pages)
 []()
+
+# Other Links
+- [Jekyll Documentation](https://jekyllrb.com/docs/pages/)
